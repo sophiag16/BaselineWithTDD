@@ -1,5 +1,5 @@
 <?xml version = "1.0"?>
-<project name = "Geometry" default = "runjUnit" basedir=".">
+<project name = "BaselineProblem" default = "runjUnit" basedir=".">
 
     <target name="runjUnit" depends="build">
         <junit printsummary="yes" haltonfailure="true">
