@@ -11,7 +11,7 @@ public class BillingMachine {
         for(int i = 0; i < length - 2; i++) {
             receipt += splitItemInfo[i] + " ";
         }
-        
+
         receipt += ": " + Double.toString(shelfPrice);
         receipt += "\nSales Taxes : 0.0" + "\nTotal : " + Double.toString(shelfPrice);
         return receipt;

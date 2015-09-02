@@ -1,5 +1,5 @@
 #Problem Description
-To produce a receipt mentioning the item, cost, tax and total when a list of items and information about them is given.
+To produce a receipt mentioning the item, cost, tax, total when a list of items and information about them is given.
 
 #How to setup development environment
 1. Any OS
